@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+            "name": "public-tools",
+			"path": "./"
+		}
+	],
+	"settings": {
+		"gopls": {
+			"build.experimentalWorkspaceModule": true
+		}
+	}
+}
